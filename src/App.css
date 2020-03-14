@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+
+}
+
+.header {
+
+}
+
+.article {
+  margin-top: 100px;
+  border-color: black;
+  border: 1px solid;
+  border-radius: 10px;
+  width: 30%;
+  
+}
